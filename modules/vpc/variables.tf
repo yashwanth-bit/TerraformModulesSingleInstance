@@ -1,0 +1,10 @@
+variable "vpc_name" {}
+variable "vpc_cidr" {}
+variable "environment" {}
+variable "IGW_name" {}
+variable "v_cidr" {}
+variable "avl_zones" {}
+variable "security_group" {}
+variable "Main_Routing_Table" {}
+#variable "env" {}
+#variable "vpc_name" {}

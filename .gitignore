@@ -1,0 +1,6 @@
+terraform.*
+.terroform.lock*
+.terroform/*
+.terraform*
+.DS_Store*
+.idea/*
